@@ -2,9 +2,6 @@
 
 Me chamo Júlio César Rauen, tenho 20 anos, sou apaixonado em linguagens e tecnologia. Meu objetivo é me especializar em Data Analyst e Backend.
 
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -17,6 +14,9 @@ Me chamo Júlio César Rauen, tenho 20 anos, sou apaixonado em linguagens e tecn
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+<br/>
+<br/>
 
 ### 📊 Estatísticas
 
