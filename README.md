@@ -1,4 +1,4 @@
-# 👨‍💻 Júlio C. Rauen
+# Júlio C. Rauen
 
 Meu nome é Júlio César Rauen, e sou apaixonado por tecnologia e programação. Atualmente, estou focado em aprender e aprimorar minhas habilidades em **Python**. 
 Meu objetivo é me especializar em Data Analyst e Backend.
