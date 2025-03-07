@@ -1,6 +1,7 @@
-# Júlio C. Rauen
+# 👨‍💻 Júlio C. Rauen
 
-Me chamo Júlio César Rauen, tenho 20 anos, sou apaixonado em linguagens e tecnologia. Meu objetivo é me especializar em Data Analyst e Backend.
+Meu nome é Júlio César Rauen, e sou apaixonado por tecnologia e programação. Atualmente, estou focado em aprender e aprimorar minhas habilidades em **Python**. 
+Meu objetivo é me especializar em Data Analyst e Backend.
 
 ---
 
