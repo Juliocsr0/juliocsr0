@@ -34,6 +34,6 @@ Meu objetivo é me especializar em Data Analyst e Backend.
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliocsr0&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliocsr0&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide=html,css,other" 
   />
 </p>
