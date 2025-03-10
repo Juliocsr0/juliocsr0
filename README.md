@@ -4,7 +4,6 @@ Meu nome é Júlio César Rauen, sou apaixonado por tecnologia e programação. 
 Meu objetivo é me especializar em Data Analyst e Backend.
 
 ---
-
 <h2 align="left">Techs (for now)</h2>
 
 ###
@@ -23,18 +22,6 @@ Meu objetivo é me especializar em Data Analyst e Backend.
   <img src="https://github-readme-stats.vercel.app/api?username=Juliocsr0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Juliocsr0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Juliocsr0&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<h2 align="left">Social Media</h2>
-
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/júlio-césar-rauen-9b1832270" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
 </div>
 
 ###
