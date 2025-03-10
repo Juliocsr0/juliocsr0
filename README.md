@@ -27,3 +27,4 @@ Meu objetivo é me especializar em Data Analyst e Backend.
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliocsr0&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide=html,css,other" 
   />
+<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
