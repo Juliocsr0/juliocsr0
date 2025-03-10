@@ -5,7 +5,17 @@ Meu objetivo é me especializar em Data Analyst e Backend.
 
 ---
 
-<h2 align="center">📊 Stats</h2>
+<h2 align="left">Techs (for now)</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
+
+<h2 align="left">📊 Stats</h2>
 
 ###
 
@@ -17,6 +27,14 @@ Meu objetivo é me especializar em Data Analyst e Backend.
 
 ###
 
-<img src="https://raw.githubusercontent.com/Juliocsr0/Juliocsr0/output/snake.svg" alt="Snake animation" />
+<h2 align="left">Social Media</h2>
+
+###
+
+<div align="left">
+  <a href="www.linkedin.com/in/júlio-césar-rauen-9b1832270" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
 ###
