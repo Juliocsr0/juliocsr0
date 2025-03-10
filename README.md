@@ -5,26 +5,18 @@ Meu objetivo é me especializar em Data Analyst e Backend.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+<h2 align="center">📊 Stats</h2>
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+###
 
-<br/>
-<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Juliocsr0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Juliocsr0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Juliocsr0&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
-### 📊 Estatísticas
+###
 
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliocsr0&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide=html,css,other" 
-  />
-<img src="https://raw.githubusercontent.com/Juliocsr0/juliocsr0/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Juliocsr0/Juliocsr0/output/snake.svg" alt="Snake animation" />
+
+###
